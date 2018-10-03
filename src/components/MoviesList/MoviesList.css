@@ -1,0 +1,12 @@
+.movies {
+  width: 90%;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr;
+  align-items: center;
+}
+
+.movies-episode {
+  text-transform: uppercase;
+  font-size: 0.9rem;
+}
